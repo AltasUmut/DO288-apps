@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/ubi8/ubi:8.0 1
+FROM quay.io/redhattraining/httpd-parent
 
 MAINTAINER Red Hat Training <training@redhat.com>
 
